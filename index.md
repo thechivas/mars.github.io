@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to TheChivas’s homepage!
+
+description: This is a practice of how to create a new page.
 
 You can use the [editor on GitHub](https://github.com/thechivas/mars.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
